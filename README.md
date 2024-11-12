@@ -37,3 +37,6 @@ The dataset for this analysis is imported directly from **Microsoft SQL Server S
 ## Conclusion
 
 This Power BI report provides comprehensive insights into the insurance industry, helping stakeholders understand customer demographics, financial performance, and claim trends. It’s a valuable tool for insurance companies looking to optimize their customer service, improve risk assessment, and enhance financial management.
+
+## Dashboard Image
+**For the preview of the Covid-19 Dashboard click on the link** : Project Image
